@@ -11,7 +11,7 @@ $username_user=$_SESSION['username_user'];
 $password_user=$_SESSION['password_user'];
 $id_kategori=$_SESSION['id_kategori'];
 $kunci_login=$_SESSION['kunci_login'];
-$waktu_login=$_SESSION['waktu_login'];
+//$waktu_login=$_SESSION['waktu_login'];
 
  ?>
 <!DOCTYPE html>
