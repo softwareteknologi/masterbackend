@@ -1,0 +1,1 @@
+<marquee> maaf infogunungkidul.com sedang dalam perbaikan</marquee>

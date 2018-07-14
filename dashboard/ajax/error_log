@@ -1,0 +1,9 @@
+[09-May-2017 15:45:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 20
+[09-May-2017 15:49:51 Asia/Jakarta] PHP Warning:  include(core/koneksi.php): failed to open stream: No such file or directory in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 3
+[09-May-2017 15:49:51 Asia/Jakarta] PHP Warning:  include(core/koneksi.php): failed to open stream: No such file or directory in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 3
+[09-May-2017 15:49:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'core/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 3
+[09-May-2017 15:49:51 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 5
+[09-May-2017 15:49:51 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 5
+[09-May-2017 15:49:51 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 8
+[09-May-2017 16:01:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 5
+[09-May-2017 16:02:46 Asia/Jakarta] PHP Fatal error:  Call to undefined function nama_user1() in /home/kpadgun1/public_html/softek.co.id/dashboard/ajax/readChat.php on line 10
